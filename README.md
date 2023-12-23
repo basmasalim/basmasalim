@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/basma-salem-b23170293/](https://www.linkedin.com/in/basma-hawash-b23170293/)" target="_blank"><img src="https://img.shields.io/badge/-Basma%20Salim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/basma-hawash-b23170293/](https://www.linkedin.com/in/basma-hawash-b23170293/)" target="_blank"><img src="https://img.shields.io/badge/-Basma%20Hawash-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### :hammer_and_wrench: Languages and Tools :
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
