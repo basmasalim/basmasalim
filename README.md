@@ -11,7 +11,6 @@
   </a>
 </p>
 
-- 🏢 I'm a Software Engineer
 - 🔭 I’m currently Front-End Developer @ Route 
 - 💬 Ask me about my experience with JavaScript, TypeScript, Angular+2, or anything related to web development.
 - 📫 How to reach me basmasalim030@gmail.com
