@@ -11,7 +11,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently Front-End Developer @ Route.
 - 🎓 Graduated from <a href="http://www.sareg.sci.cu.edu.eg/">Faculty of Science Cairo University</a> Computer Science departement.
 - 💬 Ask me about my experience with JavaScript, TypeScript, Angular+2, or anything related to web development.
 - 📫 How to reach me basmasalim030@gmail.com
