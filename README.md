@@ -50,8 +50,6 @@
 ###
 
 ###
-:hammer_and_wrench: Languages and Tools :
-
 
 # 🧰 My Skills
 
@@ -82,6 +80,7 @@
 
 <br /><br />
 
+
 ###
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My latest articles!
@@ -91,7 +90,7 @@
 - [Units in CSS](https://www.linkedin.com/feed/update/urn:li:activity:7149408491223367680/)
 - [OOP](https://www.linkedin.com/feed/update/urn:li:activity:7210264832955084800/)
 
-
+<br> <br>
 ###
 
 
