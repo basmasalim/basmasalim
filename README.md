@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/basma-hawash-b23170293/" >
     <img  align="left" alt="basma's LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" />
   </a>
-  <a href="https://codeforces.com/profile/BasmaSalim">
+  <a href="">
     <img align="left" alt="basma's Codeforces" width="30px" src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" draggable="false" />
   </a>
   <a href="https://basma-salim-portfolio.vercel.app/">
