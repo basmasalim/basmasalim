@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/0572549a-cdc0-4468-affb-a33ca69ca317)<div align="center">
 
 **"Simplicity is the soul of efficiency."**  
 
@@ -23,13 +23,15 @@
   <a href="https://www.linkedin.com/in/basma-hawash-b23170293/" >
     <img  align="left" alt="basma's LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" />
   </a>
-  <a href="">
-    <img align="left" alt="basma's Codeforces" width="30px" src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" draggable="false" />
-  </a>
   <a href="https://basma-salim-portfolio.vercel.app/">
     <img align="left" alt="basma's portfolio" width="40px" src="https://img.icons8.com/?size=100&id=9tLkqCSNMqks&format=png&color=000000" draggable="false" />
   </a>
-
+  <a href="https://codeforces.com/profile/BasmaSalim">
+    <img align="left" alt="basma's Codeforces" width="30px" src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" draggable="false" />
+  </a>
+  <a href="https://www.codewars.com/users/basmasalim">
+    <img align="left" alt="basma's Codewars" width="40px" src="https://img.icons8.com/?size=100&id=gDJDJJ1MCGmG&format=png&color=000000" draggable="false" />
+  </a>
 </div>
 
 <br />
