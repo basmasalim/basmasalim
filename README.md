@@ -1,19 +1,13 @@
-![image](https://github.com/user-attachments/assets/0572549a-cdc0-4468-affb-a33ca69ca317)<div align="center">
 
-**"Simplicity is the soul of efficiency."**  
+<div align="center">
+<h3 align="center">Frontend Developer Angular</h3>
 
 [![Repos Badge](https://badges.pufler.dev/repos/basmasalim)](https://badges.pufler.dev) 
 <img src="https://komarev.com/ghpvc/?username=basmasalim&label=Profile%20views&color=0e75b6&style=flat" alt="basmasalim" />
 
-
 </div>
 
-
 # Hey, I'm [Basma!](https://www.linkedin.com/in/basma-hawash-b23170293/) 
-
-###
-
-<h3 align="center">Frontend Developer from Egypt</h3>
 
 ###
 <div align="center">
@@ -92,16 +86,17 @@
 - [Units in CSS](https://www.linkedin.com/feed/update/urn:li:activity:7149408491223367680/)
 - [OOP](https://www.linkedin.com/feed/update/urn:li:activity:7210264832955084800/)
 
-<br> <br>
-###
+<br>
 
 
-<div align="center">
   <!--
+<div align="center">
+
   <img src="https://streak-stats.demolab.com?user=basmasalim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
- -->
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basmasalim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<br />
+-->
 
-<br /><br />
 
