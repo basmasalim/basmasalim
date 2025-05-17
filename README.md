@@ -20,12 +20,14 @@
   <a href="https://basma-salim-portfolio.vercel.app/">
     <img align="left" alt="basma's portfolio" width="40px" src="https://img.icons8.com/?size=100&id=9tLkqCSNMqks&format=png&color=000000" draggable="false" />
   </a>
-  <a href="https://codeforces.com/profile/BasmaSalim">
+  
+<!--   <a href="https://codeforces.com/profile/BasmaSalim">
     <img align="left" alt="basma's Codeforces" width="30px" src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" draggable="false" />
   </a>
   <a href="https://www.codewars.com/users/basmasalim">
     <img align="left" alt="basma's Codewars" width="40px" src="https://img.icons8.com/?size=100&id=gDJDJJ1MCGmG&format=png&color=000000" draggable="false" />
-  </a>
+  </a> -->
+  
 </div>
 
 <br />
